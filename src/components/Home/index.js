@@ -55,8 +55,8 @@ const Home = () => {
             />
           </h1>
           <h2>
-            Front End Developer / JavaScript Developer / Back End Developer /
-            MERN Developer
+            Front End Developer / Back End Developer / JavaScript Developer /
+            MERN Developer.
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
