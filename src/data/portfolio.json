@@ -1,0 +1,70 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1.png",
+      "title": "Movies Web-App",
+      "description": "React, JSX, SASS",
+      "url": "https://sadgemovies.vercel.app"
+    },
+    {
+      "cover": "/portfolio/2.png",
+      "title": "House Market-place",
+      "description": "React, JSX, Tailwind, Firebase",
+      "url": "https://house-marketplacee.vercel.app"
+    },
+    {
+      "cover": "/portfolio/3.png",
+      "title": "Github Finder",
+      "description": "React, JSX, Tailwind",
+      "url": "https://githubfinderwebapp.vercel.app"
+    },
+    {
+      "cover": "/portfolio/4.png",
+      "title": "Chat App",
+      "description": "React, JSX, Tailwind, SocketIO",
+      "url": "https://chatapp-mgado-socketio.herokuapp.com"
+    },
+    {
+      "cover": "/portfolio/5.png",
+      "title": "MERN Foodhub Web-App",
+      "description": "React, JSX, Tailwind, NodeJS, Express, MongoDB",
+      "url": "https://foodhub-webapp.herokuapp.com"
+    },
+    {
+      "cover": "/portfolio/6.png",
+      "title": "Breaking Bad Characters",
+      "description": "React, JSX, Tailwind",
+      "url": "https://breakingbadchars.vercel.app"
+    },
+    {
+      "cover": "/portfolio/7.png",
+      "title": "Simple Ecommerce Using Commerce.js",
+      "description": "React, JSX, Tailwind, Commerce.js , Stripe",
+      "url": "https://simple-eccomerce.vercel.app"
+    },
+    {
+      "cover": "/portfolio/8.png",
+      "title": "Next.js Ecommerce",
+      "description": "Next.js, Sanity, Tailwind",
+      "url": "https://next-js-complete-ecommerce.vercel.app"
+    },
+    {
+      "cover": "/portfolio/9.png",
+      "title": "Simple Food Delivery Web-App",
+      "description": "React, JSX, Styled Components",
+      "url": "https://akelney-react-app.vercel.app"
+    },
+    {
+      "cover": "/portfolio/10.png",
+      "title": "Simple Mern Web-App With Authentication",
+      "description": "React, Node, Express, MongoDB ",
+      "url": "https://merngoalsekse.herokuapp.com"
+    },
+    {
+      "cover": "/portfolio/11.png",
+      "title": "Laravel Gym System Web-App",
+      "description": "Laravel",
+      "url": "http://stark-coast-27837.herokuapp.com/login"
+    }
+  ]
+}
