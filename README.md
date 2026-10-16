@@ -8,7 +8,7 @@
 
 ### 🔗 [View the live site →](https://gado-portfolio.vercel.app)
 
-> **Heads-up:** This is the archived 2022 version. The current portfolio lives at **[mohamedgado.com](https://mohamedgado.com)** ([repo](https://github.com/Vette1123/portfolio-v1)).
+> **Heads-up:** This is the archived 2022 version. The current portfolio lives at **[mohamedgado.com](https://www.mohamedgado.com)**.
 
 A single-page React portfolio with a sidebar layout, letter-by-letter intro animations, a projects showcase, and a contact page with an interactive map and email form.
 
